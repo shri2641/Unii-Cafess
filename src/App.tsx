@@ -408,7 +408,7 @@ function App() {
             <div className="flex items-center space-x-3">
               <Utensils className="w-8 h-8 text-green-600 animate-bounce" />
               <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-teal-600">
-                  Campus Crave
+                  Uni Cafes
               </h1>
             </div>
               <nav className="hidden md:flex space-x-8">
@@ -492,7 +492,7 @@ function App() {
         <div className="absolute inset-0 bg-gradient-to-b from-black/50 to-black/70 flex items-center justify-center backdrop-blur-sm">
           <div className="text-center text-white transform transition-all duration-500 hover:scale-105 px-4">
             <h2 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-                Campus Crave
+                Uni Cafes
             </h2>
             <p className="text-xl md:text-3xl text-green-300">
                 Skip the queue, pre-order your favorite campus food
@@ -818,7 +818,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gradient-to-r from-gray-800/90 to-gray-900/90 backdrop-blur-sm text-white py-12">
         <div className="container mx-auto px-4 text-center">
-            <p className="text-lg">&copy; 2025 Campus Crave. All rights reserved.</p>
+            <p className="text-lg">&copy; 2025 Uni Cafes. All rights reserved.</p>
         </div>
       </footer>
 

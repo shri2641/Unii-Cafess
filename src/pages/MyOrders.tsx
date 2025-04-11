@@ -15,7 +15,7 @@ const MyOrders: React.FC = () => {
             <Link to="/" className="flex items-center space-x-3">
               <Utensils className="w-8 h-8 text-green-600" />
               <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-teal-600">
-                Campus Crave
+                Uni Cafes
               </h1>
             </Link>
             <Link
@@ -59,7 +59,7 @@ const MyOrders: React.FC = () => {
       {/* Footer */}
       <footer className="bg-gray-50 py-8 mt-20">
         <div className="container mx-auto px-4 text-center text-gray-600">
-          <p>&copy; 2025 Campus Crave. All rights reserved.</p>
+          <p>&copy; 2025 Uni Cafes. All rights reserved.</p>
         </div>
       </footer>
     </div>

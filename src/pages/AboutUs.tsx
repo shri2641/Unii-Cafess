@@ -12,7 +12,7 @@ const AboutUs: React.FC = () => {
             <Link to="/" className="flex items-center space-x-3">
               <Utensils className="w-8 h-8 text-green-600" />
               <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-teal-600">
-                Campus Crave
+                Uni Cafes
               </h1>
             </Link>
             <Link
@@ -41,13 +41,13 @@ const AboutUs: React.FC = () => {
               That 30-minute wait cost them more than a meal—it cost them valuable study time.
             </p>
             <p className="text-gray-600 text-lg mb-6 leading-relaxed">
-              Over a disappointing sip of coffee, Anurag muttered, "Why can't we just order ahead?" 
+              Over a disappointing sip of coffee, Nitya muttered, "Why can't we just order ahead?" 
               Shrishti sighed, "And maybe even know what's actually good before we waste our money?" 
-              Nitya raised an eyebrow—then grinned. "Why not?"
+              Anurag raised an eyebrow—then grinned. "Why not?"
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
-              That week, Nitya put her usual assignments on hold and turned her hostel room into a 
-              brainstorming hub. She mapped out campus cafes, interviewed 50+ students about their 
+              That week, Anurag put his usual assignments on hold and turned his hostel room into a 
+              brainstorming hub. He mapped out campus cafes, interviewed 50+ students about their 
               biggest food frustrations ("Prices change every day!", "I never know what's actually good!"), 
               and coded a bare-bones app during late-night sessions fueled by instant noodles.
             </p>
@@ -59,8 +59,8 @@ const AboutUs: React.FC = () => {
           <h2 className="text-3xl font-bold mb-8 text-blue-900">The Team</h2>
           <div className="bg-white rounded-2xl p-8 shadow-lg">
             <p className="text-gray-600 text-lg mb-6 leading-relaxed">
-              I'm a students-turned-founders who've lived the chaos we're solving. From coding 
-              all-nighters to negotiating with canteen owners, I've built Campus Crave with grit, 
+              I'm a student-turned-founder who's lived the chaos we're solving. From coding 
+              all-nighters to negotiating with canteen owners, I've built Uni Cafes with grit, 
               caffeine, and a shared belief that no student should choose between food and time.
             </p>
             <div className="mt-8">
@@ -72,7 +72,7 @@ const AboutUs: React.FC = () => {
                   </svg>
                 </div>
                 <div>
-                  <h4 className="text-lg font-semibold text-blue-900">Nitya (Founder)</h4>
+                  <h4 className="text-lg font-semibold text-blue-900">Anurag (Founder)</h4>
                   <p className="text-gray-600">Tech wizard who can debug code faster than you can say "burger".</p>
                 </div>
               </div>
@@ -150,7 +150,7 @@ const AboutUs: React.FC = () => {
       {/* Footer */}
       <footer className="bg-gray-50 py-8 mt-20">
         <div className="container mx-auto px-4 text-center text-gray-600">
-          <p>&copy; 2025 Campus Crave. All rights reserved.</p>
+          <p>&copy; 2025 Uni Cafes. All rights reserved.</p>
         </div>
       </footer>
     </div>
